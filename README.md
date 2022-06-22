@@ -1,6 +1,6 @@
 # **README - k_shell**
 
-The k_shell is a shell terminal that allows the user to enter various commands to interact with your computer's file system. 
+k_shell is a shell terminal that allows the user to enter commands that interact with the computer's file system. 
 
 ![image](https://user-images.githubusercontent.com/58372262/174961385-bd0f3171-b511-47c6-9da0-400ee38c38df.png)
 
